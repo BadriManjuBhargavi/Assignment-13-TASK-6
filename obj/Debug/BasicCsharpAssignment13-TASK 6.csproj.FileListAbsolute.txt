@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\bin\Debug\BasicCsharpAssignment13-TASK 6.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\bin\Debug\BasicCsharpAssignment13-TASK 6.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\bin\Debug\BasicCsharpAssignment13-TASK 6.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\obj\Debug\BasicCsharpAssignment13-TASK 6.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\obj\Debug\BasicCsharpAssignment13-TASK 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\obj\Debug\BasicCsharpAssignment13-TASK 6.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\obj\Debug\BasicCsharpAssignment13-TASK 6.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assignment-13\BasicCsharpAssignment13-TASK 6\BasicCsharpAssignment13-TASK 6\obj\Debug\BasicCsharpAssignment13-TASK 6.pdb
